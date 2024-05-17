@@ -64,9 +64,12 @@ Lifelong Learner, currently a student of Information Systems in Indonesia.
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
     </a>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deaaulya&layout=compact)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deaaulya&layout=compact" alt="Top Languages" />
+</p>
 
-<p>
+
+<p align="center"> 
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=deaaulya&show_icons=true&theme=dark"
