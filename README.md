@@ -80,4 +80,4 @@ Lifelong Learner, currently a student of Information Systems in Indonesia.
 </picture>
 </p>
 
-![snake gif](https://github.com/deaaulya/deaaulya/blob/output/github-contribution-grid-snake.gif)
+![Animasi ular]( https://github.com/deaaulya/deaaulya/blob/output/github-contribution-grid-snake.svg )
