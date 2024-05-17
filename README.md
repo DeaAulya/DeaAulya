@@ -62,7 +62,7 @@ Lifelong Learner, currently a student of Information Systems in Indonesia.
     </a>
     <a href="https://www.linkedin.com/in/dea-aulya-61942830a/">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-  </a>
+    </a>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deaaulya&layout=compact)
 
@@ -76,6 +76,12 @@ Lifelong Learner, currently a student of Information Systems in Indonesia.
     srcset="https://github-readme-stats.vercel.app/api?username=deaaulya&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=deaaulya&show_icons=true" />
+  <a href="https://github-readme-stats.vercel.app/api?username=deaaulya&show_icons=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=deaaulya&show_icons=true" />
+  </a>
 </picture>
+</p>
+
+<p align="center"> 
+  <img src="https://capsule-render.vercel.app/api?text=Good%20to%20%20see%20you!&animation=fadeIn&type=waving&color=gradient&height=100&section=footer"/> 
 </p>
