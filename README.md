@@ -51,6 +51,7 @@ Lifelong Learner, currently a student of Information Systems in Indonesia.
 </p>
 
 
+
 ### <strong>👩🏼‍💻 Yosh!</strong>
 <p>
     - :keyboard: I’m currently learning Web Programming. </br>
