@@ -60,7 +60,7 @@
     - :headphones: Listening to music and watching are part of me. </br>
 <p>
 
-<p align="center">
+<p align="right">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deaaulya&layout=compact" alt="Top Languages" />
 </p>
 
