@@ -86,7 +86,7 @@
     <a href="https://www.instagram.com/deaulya._/">
         <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
     </a>
-    <a href="https://www.linkedin.com/in/dea-aulya-61942830a/">
+    <a href="https://www.linkedin.com/in/dea-aulya-88b0b4307/">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
     </a>
 </p>
