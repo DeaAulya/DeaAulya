@@ -2,13 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?text=Hi%20there%20👋,%20I'm%20Dea!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/> 
 </p>
 
+<img align="right" alt="Coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e">
 
 # <strong>Salutations!, It's Dea here.</strong>
 🎯 Lifelong Learner, currently a student of Information Systems in Indonesia.
 
 <p align="justify">I’m a dedicated learner pursuing a degree in Information Systems in Indonesia. My journey began with a curiosity about how things work, evolving into a commitment to mastering programming and systems design. With every project, I strive to push the boundaries of my knowledge, constantly seeking new challenges that will help me grow both personally and professionally. Join me in exploring coding, development, and innovation.</p>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e">
 
 ### <strong>🚀 Tools</strong>
 <p>
@@ -51,6 +51,7 @@
 </p>
 
 
+
 ### <strong>👩🏼‍💻 Yosh!</strong>
 <p>
     - :keyboard: I’m currently learning Web Programming. </br>
@@ -60,7 +61,7 @@
     - :headphones: Listening to music and watching are part of me. </br>
 <p>
 
-<p align="right">
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deaaulya&layout=compact" alt="Top Languages" />
 </p>
 
