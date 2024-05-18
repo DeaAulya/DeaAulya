@@ -9,7 +9,6 @@
 
 <p align="justify">I’m a dedicated learner pursuing a degree in Information Systems in Indonesia. My journey began with a curiosity about how things work, evolving into a commitment to mastering programming and systems design. With every project, I strive to push the boundaries of my knowledge, constantly seeking new challenges that will help me grow both personally and professionally. Join me in exploring coding, development, and innovation.</p>
 
-
 ### <strong>🚀 Tools</strong>
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
